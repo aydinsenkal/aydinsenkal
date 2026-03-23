@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aydın%20Şenkal&fontSize=40&fontColor=ffffff"/>
-</p>
+
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aydinsenkal.aydinsenkal"/>
 
@@ -8,7 +6,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aydinsenkal.aydinsenkal&left_color=royalblue&right_color=black" />
 
 <h1 align="center">Hi 👋, I'm Aydın Şenkal</h1>
-<h3 align="center">Software Engineer | Embedded Systems | EV Charging</h3>
+<h3 align="center">Test Engineer | Embedded Systems | EV Charging</h3>
 
 ---
 
