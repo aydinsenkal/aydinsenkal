@@ -5,12 +5,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- ⚡ Working on **EV Charging Protocols**
-- 🔌 Interested in **V2G, ISO15118, IEC61851**
-- 💻 Focused on **Embedded Systems & Software Engineering**
-- 🌍 Based in **Türkiye**
+-  Working on **EV Charging Systems**
+-  Interested in **V2G, ISO15118, IEC61851**
+-  Focused on **Embedded Systems & Software Engineering**
+-  Based in **Izmir / Türkiye**
 
 ---
 
@@ -18,10 +18,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,bash,cmake,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,bash,cmake,vscode,ubuntu,debian,github,gitlab,postman,regex,md,html,css,js,nodejs,typescript,java,go,rust,matlab,qt,opencv,kubernetes,nginx,redis,mysql,sqlite,arduino,raspberrypi&perline=10" />
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
