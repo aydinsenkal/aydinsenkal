@@ -1,6 +1,5 @@
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aydinsenkal.aydinsenkal"/>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aydinsenkal.aydinsenkal&left_color=royalblue&right_color=black" />
