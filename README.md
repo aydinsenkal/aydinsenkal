@@ -14,16 +14,16 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,bash,cmake,vscode,ubuntu,debian,github,gitlab,postman,regex,md,html,css,js,nodejs,typescript,java,go,rust,matlab,qt,opencv,kubernetes,nginx,redis,mysql,sqlite,arduino,raspberrypi&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,python,linux,docker,bash,vscode,ubuntu,github,gitlab,postman,js,matlab,kubernetes,nginx,mysql,arduino,&perline=10" />
 
 </p>
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -33,37 +33,18 @@
 
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aydinsenkal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
+##  Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aydinsenkal&theme=tokyo-night&hide_border=true">
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/aydinsenkal)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:yourmail@example.com">
+<a href="mailto:aydinsenkal@icloud.com">
 <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -71,4 +52,4 @@
 
 ---
 
-⭐ *Always exploring new technologies in EV infrastructure and embedded systems.*
+ *I wake up middle of the night because i have to test it.*
